@@ -15,7 +15,7 @@ header{
 	padding-bottom: 50px;
 }
 
-h1, h2 {
+h1, h2, h3 {
 	font-family: 'Abril Fatface', cursive;
 }
 
@@ -56,7 +56,14 @@ a:hover{
 	color: white;
 	background-color: #483a94;
 }
+h3{
+	font-size: 36px;
+	color: #e70c19;
+	margin: 40px 0 10px;
+}
 
+
+}
 footer{
 	background-color: #d14635;
 	text-align: center;
